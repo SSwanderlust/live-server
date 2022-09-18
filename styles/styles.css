@@ -1,3 +1,25 @@
-h1, p, .footer {
-    text-align: center;
+h1,
+p,
+a {
+  text-align: center;
+}
+
+body {
+  background: yellowgreen;
+}
+
+a {
+  color: green;
+  margin: 0 10px;
+}
+.footer {
+  text-align: center;
+}
+img {
+  margin: 0 auto;
+  max-width: 100%;
+  display: block;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 30px;
 }
